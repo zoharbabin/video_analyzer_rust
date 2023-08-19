@@ -1,0 +1,12 @@
+[package]
+name = "video_analyzer"
+version = "0.1.0"
+edition = "2023"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ffmpeg-next = "6.0.0"
+indicatif = "0.17.6"
+num_cpus = "1.16.0"
+thiserror = "1.0.47"
