@@ -1,10 +1,6 @@
 # video_analyzer_rust
 
-Rust based video analysis tool
-
-## Description
-
-This project is a Rust-based video analysis tool that leverages the power of the FFmpeg library to process video files. It extracts metadata, counts frames, identifies key frames, and measures the duration of the video. The tool is designed to be efficient and can utilize multiple CPU cores for faster processing.
+Rust-based video analysis tool that leverages the power of the FFmpeg library to process video files. It extracts metadata, counts frames, identifies key frames, and measures the duration of the video. The tool is designed to be efficient and can utilize multiple CPU cores for faster processing.
 
 ## Installation
 
